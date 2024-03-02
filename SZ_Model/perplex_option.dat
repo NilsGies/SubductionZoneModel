@@ -1,0 +1,9 @@
+|----------------------------------------------------------------------
+        | Run-time Perple_X 6.6.8 options:
+        | Comments must be preceeded by the "|" character.
+        | Keywords and values are case sensitive!
+        | For documentation refer to:
+        |         www.perplex.ethz.ch/perplex_options.html
+|----------------------------------------------------------------------
+approx_alpha               F    | use approximation exp(x)~1+x to evaluate expansivity effect on volume was T
+

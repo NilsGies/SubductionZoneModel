@@ -1,0 +1,101 @@
+Databases/hp11_PW.dat
+print
+plot
+solution_short.dat
+plop
+perplex_option.dat
+10
+PTpoint
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+15
+0
+0
+0
+0
+5
+2
+0
+0.00000 0.00000 0.00000 0.00000 0.00000
+ 
+begin thermodynamic component list
+H2O  1  0
+
+CO2  1  0
+
+SIO2  1  0.747
+
+AL2O3  1  0.044
+
+FEO  1  0.112
+
+MGO  1  0.936
+
+CAO  1  0.063
+
+NA2O  1  0.006
+
+K2O  1  0
+
+          
+
+end thermodynamic component list
+ 
+begin saturated component list
+end saturated component list
+ 
+begin saturated phase component list
+end saturated phase component list
+ 
+begin independent potential/fugacity/activity list
+end independent potential/fugacity/activity list
+ 
+begin excluded phase list
+qfm
+mthm
+hen
+frw
+h2oL
+acti
+vsv
+kals
+wo
+ 
+ 
+end excluded phase list
+ 
+begin solution phase list
+GlTrTsPg
+Amph(DPW)
+Omph(HP)
+Gt(HP)
+feldspar
+Chl(HP)
+Ep(HP)
+Opx(HP)
+Pheng(HP)
+O(HP)
+A-phase
+Atg(PN)
+Ctd(HP)
+ 
+ 
+ 
+ 
+end solution phase list
+ 
+0.000000      0.000000     0.000000  0.000000      0.000000     max p, t, xco2, u1, u2
+0.000000      0.000000     0.000000  0.000000      0.000000     max p, t, xco2, u1, u2
+0.000000      0.000000     0.000000  0.000000      0.000000
+ 
+1.000000  2.000000  4.000000  5.000000  3.000000
+pendent & sectioning variables
+
