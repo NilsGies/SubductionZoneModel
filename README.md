@@ -1,11 +1,3 @@
 # SubductionZoneModel
-
-Modelling the global water cycle - the effect of Mg-sursassite and phase A on deep slab dehydration and the global subduction zone water budget
-
-Nils B. Gies, Matthias Konrad-Schmolke, Jörg Hermann
-
-
-
-
-[![DOI](https://zenodo.org/badge/766268412.svg)](https://zenodo.org/doi/10.5281/zenodo.10764747)
+Gies, N. B., Konrad-Schmolke, M., & Hermann, J. (2024). Modeling the global water cycle—The effect of Mg-sursassite and phase A on deep slab dehydration and the global subduction zone water budget. Geochemistry, Geophysics, Geosystems, 25, e2024GC011507. https://doi.org/10.1029/2024GC011507 
 
